@@ -15,9 +15,14 @@ session/
 systemd/
 xfce4/
 xsettingsd/
+atuin/
+fish/
+gthumb/
 QtProject.conf
 user-dirs.dirs
 user-dirs.locale
 pavucontrol.ini
 dolphinrc
 trashrc
+filetypesrc
+mimeapps.list
